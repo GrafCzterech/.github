@@ -10,7 +10,7 @@ We're also a part of [AI Star](https://github.com/Kolo-Naukowe-AI-Star) science 
 - [TCA166](https://github.com/TCA166)
 
 ### Projects
-As for now, we made just one project as Graf Czterech, which consists of three repositories. This is a project we completed as part of our studies to earn our engineering degree.
+As for now, we made just one public project as Graf Czterech, which consists of three repositories. This is a project we completed as part of our studies to earn our engineering degree.
 
 Following repositories are a part of this project:
 - [stripe-kit](https://github.com/GrafCzterech/STRIPE-kit) (Public ✔️) -- Our toolkit for simplification of work with Nvidia IsaacLab
